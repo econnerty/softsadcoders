@@ -1,4 +1,7 @@
 this our file comrade
+<<<<<<< HEAD
+=======
 perhaps
+>>>>>>> branch-shaine-2
 maybe
 maybe
